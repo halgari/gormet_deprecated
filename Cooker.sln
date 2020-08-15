@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooker", "Cooker\Cooker.csproj", "{181AD677-8155-48E9-9582-519AE70A7CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooker.Lib", "Cooker.Lib\Cooker.Lib.csproj", "{6CE35F11-DA84-4F05-9ABC-7A2C0D8591FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181AD677-8155-48E9-9582-519AE70A7CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181AD677-8155-48E9-9582-519AE70A7CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181AD677-8155-48E9-9582-519AE70A7CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181AD677-8155-48E9-9582-519AE70A7CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE35F11-DA84-4F05-9ABC-7A2C0D8591FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE35F11-DA84-4F05-9ABC-7A2C0D8591FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE35F11-DA84-4F05-9ABC-7A2C0D8591FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE35F11-DA84-4F05-9ABC-7A2C0D8591FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
